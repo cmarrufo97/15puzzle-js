@@ -1,4 +1,3 @@
-// var botones = document.getElementsByClassName("boton");     // NO ME FUNCIONA
 var botones = [];       // -> obtenerBotones()
 
 window.onload = function (e) {                      // MEZCLAR BOTONES AL CARGAR LA PÁGINA.
